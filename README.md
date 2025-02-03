@@ -1,6 +1,8 @@
 # End-to-End-Analysis-with-Business-Insights
 This project provides a comprehensive analysis of key business metrics to drive strategic decision-making and improve overall business performance. 
 
+![Project Overview](./Images/End to End Analysis.PNG)
+
 ## Project Overview
 
 This project analysis covers:
